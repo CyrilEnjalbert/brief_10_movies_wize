@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/434c40f1a0ee48148bfd2458b9eae7f6/artifacts
+end_time: 1708095065059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 434c40f1a0ee48148bfd2458b9eae7f6
+run_name: wistful-goat-121
+run_uuid: 434c40f1a0ee48148bfd2458b9eae7f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708095064936
+status: 3
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c61133a9b51148cb8ba466ac33e076da/artifacts
+deleted_time: 1708094565018
+end_time: 1708094444477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c61133a9b51148cb8ba466ac33e076da
+run_name: dapper-calf-98
+run_uuid: c61133a9b51148cb8ba466ac33e076da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094444393
+status: 4
+tags: []
+user_id: Utilisateur

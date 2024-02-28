@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a67bdb7f173b45b3adae85462463f0ba/artifacts
+deleted_time: 1708094564989
+end_time: 1708094531642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a67bdb7f173b45b3adae85462463f0ba
+run_name: languid-trout-724
+run_uuid: a67bdb7f173b45b3adae85462463f0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094531507
+status: 4
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/13f9345463824a0aab312e559f2e2529/artifacts
+deleted_time: 1708094565003
+end_time: 1708094541391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 13f9345463824a0aab312e559f2e2529
+run_name: amusing-sloth-561
+run_uuid: 13f9345463824a0aab312e559f2e2529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094541276
+status: 4
+tags: []
+user_id: Utilisateur

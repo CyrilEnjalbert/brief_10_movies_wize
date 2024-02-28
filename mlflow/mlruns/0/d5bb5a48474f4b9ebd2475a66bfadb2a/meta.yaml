@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d5bb5a48474f4b9ebd2475a66bfadb2a/artifacts
+deleted_time: 1708096136465
+end_time: 1708096083701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d5bb5a48474f4b9ebd2475a66bfadb2a
+run_name: incongruous-yak-627
+run_uuid: d5bb5a48474f4b9ebd2475a66bfadb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708096081522
+status: 3
+tags: []
+user_id: Utilisateur

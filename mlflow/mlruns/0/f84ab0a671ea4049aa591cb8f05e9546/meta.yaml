@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f84ab0a671ea4049aa591cb8f05e9546/artifacts
+deleted_time: 1708094565019
+end_time: 1708094490565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f84ab0a671ea4049aa591cb8f05e9546
+run_name: victorious-shad-423
+run_uuid: f84ab0a671ea4049aa591cb8f05e9546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094490378
+status: 4
+tags: []
+user_id: Utilisateur

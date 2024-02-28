@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/00be8582850f46babba5b19f1e591d0c/artifacts
+deleted_time: 1708094860861
+end_time: 1708094814329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 00be8582850f46babba5b19f1e591d0c
+run_name: debonair-conch-945
+run_uuid: 00be8582850f46babba5b19f1e591d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094814212
+status: 3
+tags: []
+user_id: Utilisateur

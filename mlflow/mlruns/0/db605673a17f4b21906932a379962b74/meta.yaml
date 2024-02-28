@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/db605673a17f4b21906932a379962b74/artifacts
+deleted_time: 1708094565020
+end_time: 1708094467356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: db605673a17f4b21906932a379962b74
+run_name: able-eel-419
+run_uuid: db605673a17f4b21906932a379962b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094467228
+status: 4
+tags: []
+user_id: Utilisateur

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f5b161910eaa45f99468dfc0aabeceb3/artifacts
+end_time: 1708094606506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5b161910eaa45f99468dfc0aabeceb3
+run_name: intrigued-moth-496
+run_uuid: f5b161910eaa45f99468dfc0aabeceb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094606393
+status: 3
+tags: []
+user_id: Utilisateur

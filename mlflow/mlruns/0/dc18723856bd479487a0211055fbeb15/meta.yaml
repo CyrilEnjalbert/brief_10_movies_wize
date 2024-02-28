@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dc18723856bd479487a0211055fbeb15/artifacts
+deleted_time: 1708094621531
+end_time: 1708094550926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dc18723856bd479487a0211055fbeb15
+run_name: amusing-quail-638
+run_uuid: dc18723856bd479487a0211055fbeb15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708094550818
+status: 3
+tags: []
+user_id: Utilisateur
